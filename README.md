@@ -19,11 +19,12 @@ To determine when the cart stops, the program looks for a period where the posit
 - pandas
 - matplotlib
 - numpy
+- openpyxl
 
 ## Installation
 1. Clone the repository or download the `sonar.py` file.
 2. Install the required Python packages using pip:
 
 ```sh
-pip install pandas matplotlib numpy
+pip install pandas matplotlib numpy openpyxl
 ```
